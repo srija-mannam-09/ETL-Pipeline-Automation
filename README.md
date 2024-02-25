@@ -1,7 +1,5 @@
 # ETL-Pipeline-Automation
 
-# ETL-Pipeline-Automation
-
 **ETL Pipeline Overview:**
 
     Demonstrates the creation of an automated ETL pipeline using Python and pgAdmin4 database.
