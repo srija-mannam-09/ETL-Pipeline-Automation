@@ -4,17 +4,17 @@ import subprocess
 
 
 def run_main_script():
-    # Replace 'your_script.py' with the actual path to your main script.
-    script_path = 'C:\\Users\\danie\\PycharmProjects\\pythonProject\\scrap_and_transform.py'
+    
+    script_path = 'C:\\Users\\srijamannam\\PycharmProjects\\pythonProject\\scrap_and_transform.py'
 
-    # Replace 'python' with the full path to the Python interpreter within your virtual environment.
-    python_path = 'C:\\Users\\danie\\PycharmProjects\\pythonProject\\venv\\Scripts\\python.exe'
+    
+    python_path = 'C:\\Users\\srijamannam\\PycharmProjects\\pythonProject\\venv\\Scripts\\python.exe'
 
     subprocess.run([python_path, script_path])
 
 def run_csv_to_db_script():
-    script_path = 'C:\\Users\\danie\\PycharmProjects\\pythonProject\\csv_to_db.py'
-    python_path = 'C:\\Users\\danie\\PycharmProjects\\pythonProject\\venv\\Scripts\\python.exe'
+    script_path = 'C:\\Users\\srijamannam\\PycharmProjects\\pythonProject\\csv_to_db.py'
+    python_path = 'C:\\Users\\srijamannam\\PycharmProjects\\pythonProject\\venv\\Scripts\\python.exe'
 
     subprocess.run([python_path, script_path])
 
